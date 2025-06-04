@@ -1,2 +1,3 @@
-add_lunch_combo lineage_gtexslte-userdebug
-add_lunch_combo lineage_gtexslte-eng
+add_lunch_combo lineage_gtexswifi-userdebug
+add_lunch_combo lineage_gtexswifi-user
+add_lunch_combo lineage_gtexswifi-eng
