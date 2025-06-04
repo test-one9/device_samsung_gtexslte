@@ -81,7 +81,6 @@
 /system/bin/wpa_supplicant
 /system/etc/aasa_real_crt.crt
 /system/etc/adb.iso
-/system/etc/apns-conf.xml
 /system/etc/audio_hw.xml
 /system/etc/audio_para
 /system/etc/audio_policy.conf
