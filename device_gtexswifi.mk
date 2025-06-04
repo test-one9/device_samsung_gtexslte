@@ -297,5 +297,5 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # Dalvik Heap config
 include frameworks/native/build/tablet-7in-hdpi-1024-dalvik-heap.mk
 
-PRODUCT_NAME := full_gtexslte
-PRODUCT_DEVICE := gtexslte
+PRODUCT_NAME := full_gtexswifi
+PRODUCT_DEVICE := gtexswifi
